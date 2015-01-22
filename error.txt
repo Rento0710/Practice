@@ -1,0 +1,2 @@
+git -c diff.mnemonicprefix=false -c core.quotepath=false config --file C:\Users\Rento\Documents\Practice\.git\config --unset branch.make.merge
+
